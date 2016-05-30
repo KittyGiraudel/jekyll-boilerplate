@@ -13,6 +13,7 @@ Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyl
 * A `lang` attribute has been added to the default layout.
 * Some project-agnostic base styles have been added.
 * Normalize.css has been added.
+* `.DS_Store` and `node_modules` have been added to `.gitignore`.
 
 ### Editions
 
