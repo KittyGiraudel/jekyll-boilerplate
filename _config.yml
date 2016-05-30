@@ -27,3 +27,12 @@ kramdown:
 sass:
   sass_dir: assets/sass
   style: :compressed
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README.md
+  - CNAME
+  - node_modules
