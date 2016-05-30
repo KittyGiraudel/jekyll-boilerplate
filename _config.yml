@@ -21,3 +21,4 @@ github_username:  jekyll
 markdown: kramdown
 sass:
   sass_dir: assets/sass
+  style: :compressed
