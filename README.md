@@ -10,7 +10,6 @@ Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyl
 * An empty folder has been created at `assets/js`.
 * An initial configuration for Kramdown has been added.
 * The CSS is being minified via Sass.
-* A `lang` attribute has been added to the default layout.
 * Some project-agnostic base styles have been added.
 * Normalize.css has been added.
 * `.DS_Store` and `node_modules` have been added to `.gitignore`.
@@ -30,6 +29,11 @@ Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyl
 * All initial partials from the `_includes` folder but `head.html` have been removed.
 * Options `email`, `twitter_username`, `github_username` have been removed.
 * All the existing styles have been removed.
+
+### Fixes
+
+* A `lang` attribute has been added to the default layout.
+* A `<main>` element has been added to the default layout.
 
 ## Credits
 
