@@ -13,6 +13,8 @@ Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyl
 * Some project-agnostic base styles have been added.
 * Normalize.css has been added.
 * `.DS_Store` and `node_modules` have been added to `.gitignore`.
+* The `jekyll-feed` gem has been added to automate Atom feed generation.
+* The `jekyll-sitemap` gem has been added to automate sitemap generation.
 
 ### Editions
 
