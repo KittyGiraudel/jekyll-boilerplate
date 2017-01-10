@@ -34,6 +34,7 @@ exclude:
   - README.md
   - CNAME
   - node_modules
+  - assets/sass
 
 # Plugin settings
 gems:
