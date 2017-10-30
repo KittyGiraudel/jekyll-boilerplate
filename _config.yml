@@ -16,9 +16,6 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Markdown settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 
 # Sass settings
 sass:
@@ -28,15 +25,12 @@ sass:
 
 # Build settings
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - package.json
   - README.md
   - CNAME
-  - node_modules
   - assets/sass
 
 # Plugin settings
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
